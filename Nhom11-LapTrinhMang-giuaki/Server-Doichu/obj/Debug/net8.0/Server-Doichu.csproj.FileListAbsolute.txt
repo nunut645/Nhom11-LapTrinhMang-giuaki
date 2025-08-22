@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.AssemblyInfo.cs
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Server-Doichu\bin\Debug\net8.0\Server-Doichu.exe
+C:\Users\PC\source\repos\Server-Doichu\bin\Debug\net8.0\Server-Doichu.deps.json
+C:\Users\PC\source\repos\Server-Doichu\bin\Debug\net8.0\Server-Doichu.runtimeconfig.json
+C:\Users\PC\source\repos\Server-Doichu\bin\Debug\net8.0\Server-Doichu.dll
+C:\Users\PC\source\repos\Server-Doichu\bin\Debug\net8.0\Server-Doichu.pdb
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.dll
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\refint\Server-Doichu.dll
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.pdb
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\Server-Doichu.genruntimeconfig.cache
+C:\Users\PC\source\repos\Server-Doichu\obj\Debug\net8.0\ref\Server-Doichu.dll

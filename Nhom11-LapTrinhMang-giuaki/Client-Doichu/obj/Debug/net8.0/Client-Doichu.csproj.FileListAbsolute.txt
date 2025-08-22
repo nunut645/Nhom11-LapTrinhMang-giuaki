@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Client-Doichu\bin\Debug\net8.0\Client-Doichu.exe
+C:\Users\PC\source\repos\Client-Doichu\bin\Debug\net8.0\Client-Doichu.deps.json
+C:\Users\PC\source\repos\Client-Doichu\bin\Debug\net8.0\Client-Doichu.runtimeconfig.json
+C:\Users\PC\source\repos\Client-Doichu\bin\Debug\net8.0\Client-Doichu.dll
+C:\Users\PC\source\repos\Client-Doichu\bin\Debug\net8.0\Client-Doichu.pdb
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.AssemblyInfo.cs
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.dll
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\refint\Client-Doichu.dll
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.pdb
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\Client-Doichu.genruntimeconfig.cache
+C:\Users\PC\source\repos\Client-Doichu\obj\Debug\net8.0\ref\Client-Doichu.dll
